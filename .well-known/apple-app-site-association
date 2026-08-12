@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6T3EV7KCJ6.com.bancoguayaquil.apps.dev.local",
+        "paths": [
+          "/bm-minegocio",
+          "/bm-minegocio/*",
+          "/bm-link-pagos",
+          "/bm-link-pagos/*"
+        ]
+      }
+    ]
+  }
+}
