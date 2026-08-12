@@ -7,7 +7,6 @@
         "paths": [
           "/bm-minegocio",
           "/bm-minegocio/*",
-          "/bm-link-pagos",
           "/bm-link-pagos/*"
         ]
       }
