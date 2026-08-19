@@ -9,6 +9,14 @@
           "/bm-minegocio/*",
           "/bm-link-pagos/*"
         ]
+      },
+      {
+        "appID": "SJ25WNS29S.com.bancoguayaquil.apps.dev.local",
+        "paths": [
+          "/bm-minegocio",
+          "/bm-minegocio/*",
+          "/bm-link-pagos/*"
+        ]
       }
     ]
   }
